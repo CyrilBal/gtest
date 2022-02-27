@@ -1,5 +1,6 @@
 body {
 	background-color: azure;
+	margin: 0 auto;
 }
 h1 {
 	color: orange;
@@ -10,5 +11,5 @@ h2 {
 }
 
 h3 {
-	color: whitesmoke;
+	color: blue;
 }
